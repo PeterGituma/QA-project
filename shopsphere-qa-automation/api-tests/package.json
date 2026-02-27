@@ -5,6 +5,12 @@
     "test": "cypress run"
   },
   "devDependencies": {
-    "cypress": "^13.0.0"
-  }
+    "cypress": "^13.17.0"
+  },
+  "description": "",
+  "main": "cypress.config.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs"
 }
